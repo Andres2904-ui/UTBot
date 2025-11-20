@@ -2,11 +2,11 @@
 UTBot es una solución conversacional diseñada para resolver el problema de saturación en las oficinas de servicios escolares.
 
 <div align="center">
-  <img src="ruta/a/tu/logo.png" alt="Logo UTBot" width="200">
+  <img src="file:///C:/Users/elshi/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/2E376CAC47412983FFBD8947DD400167/Imagen%20de%20WhatsApp%202025-11-20%20a%20las%2010.47.11_d34a41ae.jpg" alt="Logo UTBot" width="200">
 
   # 🤖 UTBot: Asistente Inteligente UTH
   
-  **La solución conversacional para optimizar Servicios Escolares en la Universidad Tecnológica de Hermosillo.**
+  **🤖 Asistente virtual con IA para eliminar filas en Servicios Escolares de la UTH. Resuelve dudas de becas, pagos y trámites al instante.**
 
   ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-green)
   ![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
@@ -40,13 +40,8 @@ Reducir los tiempos de espera de los alumnos y optimizar el flujo de trabajo del
 
 Este proyecto está construido con herramientas robustas para garantizar disponibilidad y rapidez:
 
-| Categoría | Tecnología |
-|Options|---|
-| **Lenguaje** | [Ej: Python 3.10 / Node.js] |
-| **IA / NLP** | [Ej: Dialogflow / OpenAI API / NLTK] |
-| **Base de Datos** | [Ej: MySQL / Firebase] |
-| **Framework** | [Ej: Flask / Express] |
-
+| **Lenguaje** | [Python 3.10]
+| **IA / NLP** | [OpenAI API]
 
 
 🚀 Instalación y Uso (Para Desarrolladores)
@@ -90,5 +85,5 @@ Proyecto desarrollado con orgullo por alumnos de la UTH:
 
 
 <div align="center">
-  <sub>Hecho con ❤️ para la comunidad Lince de la UTH.</sub>
+  <sub>Hecho con ❤️ para la comunidad Coyotes de la UTH.</sub>
 </div>
