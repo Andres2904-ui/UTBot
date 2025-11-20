@@ -1,8 +1,8 @@
-# UTBot
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3829a38a-59e9-433f-950e-010fd7d78091" /># UTBot
 UTBot es una solución conversacional diseñada para resolver el problema de saturación en las oficinas de servicios escolares.
 
 <div align="center">
-  <img src="file:///C:/Users/elshi/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/2E376CAC47412983FFBD8947DD400167/Imagen%20de%20WhatsApp%202025-11-20%20a%20las%2010.47.11_d34a41ae.jpg" alt="Logo UTBot" width="200">
+  <img src="![Utbot](https://github.com/user-attachments/assets/bae674e2-613e-4403-a472-8c03a4f54e3e)" alt="Logo UTBot" width="200">
 
   # 🤖 UTBot: Asistente Inteligente UTH
   
@@ -24,25 +24,26 @@ UTBot es una solución conversacional diseñada para resolver el problema de sat
 🎯 Objetivo Principal
 Reducir los tiempos de espera de los alumnos y optimizar el flujo de trabajo del departamento de Servicios Escolares mediante inteligencia artificial y respuestas automatizadas.
 
-
+---
 
 ✨ Características Clave
 
-🎓 Atención 24/7: Respuestas inmediatas sobre trámites escolares a cualquier hora. ✅
-💰 Información de Pagos: Consulta de referencias, costos de cuatrimestre y fechas límite. ✅
-📝 Gestión de Becas: Orientación sobre requisitos, convocatorias y estatus. ✅
-🏫 Trámites Generales: Información sobre reinscripciones, constancias y titulación. ✅
-⚡ Interfaz Intuitiva: Diseñado para ser fácil de usar por cualquier estudiante. ✅
+🎓 Atención 24/7: Respuestas inmediatas sobre trámites escolares a cualquier hora. ✅ <br>
+💰 Información de Pagos: Consulta de referencias, costos de cuatrimestre y fechas límite. ✅ <br>
+📝 Gestión de Becas: Orientación sobre requisitos, convocatorias y estatus. ✅ <br>
+🏫 Trámites Generales: Información sobre reinscripciones, constancias y titulación. ✅ <br>
+⚡ Interfaz Intuitiva: Diseñado para ser fácil de usar por cualquier estudiante. ✅ <br>
 
-
+---
 
 🛠️ Tecnologías Utilizadas
 
 Este proyecto está construido con herramientas robustas para garantizar disponibilidad y rapidez:
 
-| **Lenguaje** | [Python 3.10]
+| **Lenguaje** | [JavaScript] <br>
 | **IA / NLP** | [OpenAI API]
 
+---
 
 🚀 Instalación y Uso (Para Desarrolladores)
 
@@ -66,19 +67,22 @@ Si deseas correr este bot en tu entorno local:
     python main.py
     ```
 
-
+---
 
 📸 Capturas de Pantalla / Demo
 
 > *[Inserta aquí una captura de pantalla del bot respondiendo una pregunta sobre becas]*
 
-
+---
 
 👥 Equipo de Desarrollo
 
 Proyecto desarrollado con orgullo por alumnos de la UTH:
 
 **Ángel Amador** - *Lead Developer / Backend* - [GitHub Profile](https://github.com/AmadorAyalaAngel4-2) 
+
+<br>
+
 **Andrés Sinohui** - *Documentación y Psicologo de Redes* - [GitHub Profile](https://github.com/Andres2904-ui).
 
 
